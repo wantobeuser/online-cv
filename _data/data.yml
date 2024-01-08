@@ -95,16 +95,19 @@ skills:
 
     toolset:
       - name: Python
-        level: 30%
+        level: 40%
 
       - name: C/C++
-        level: 60%
+        level: 50%
 
       - name: Tensorflow
-        level: 50%
+        level: 40%
 
       - name: LINUX
-        level: 50%
+        level: 40%
+
+      - name: Verilog
+        level: 30%
 
 
 footer: >
