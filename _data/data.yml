@@ -71,23 +71,24 @@ experiences:
     #     - Bullet point
 award & scholarship:
     #title: Projects
-    intro: |
-    # >
+    #intro: >
     #  You can list your side projects or open source libraries in this
     #assignments:
       #- title: Velocity
       #  link: "#hook"
       #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      details: |
 
 publications:
     #title: Publications
-    intro: |
+    #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
     #papers:
       #- title: The Art of Computer Programming
       #  link: "#"
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
+      details: |
 
 skills:
     title: Skills &amp; Proficiency
