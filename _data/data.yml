@@ -16,11 +16,11 @@ sidebar:
     phone: 010 3620 1797
     citizenship:
     website: 
-    linkedin: 
+    LinkedIn: 
     xing: 
-    github: wantobeuser
+    GitHub: wantobeuser
     telegram: 
-    gitlab:
+    GitLab:
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -52,9 +52,9 @@ career-profile:
     title: Career Profile
     summary: |
       Myungjun Kook received the B.S. degree in Electronics and Electrical Engineering in 2024 from Chungang University, Seoul, South Korea.
-      He is currently the M.S. candidate in electrical engineering in 2024 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea.
-      His current research interests include Electronic Design Automation Develop, ML, etc. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
-education:
+      He is an M.S. candidate in electrical engineering in 2024 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea.
+      His current research interests include Electronic Design Automation development, ML, etc. He is working with Prof. Seokhyeong Kang in the CAD & SoC Design Lab.
+Education:
     - degree: M.Sc in Electrical Engineering
       university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
       time: Feb 2024 - present
@@ -62,7 +62,7 @@ education:
         Advisor: Prof. Seokhyeong Kang
         
     - degree: BSc in Electronics and Electrical Engineering
-      university: Chungang University, Republic of Korea
+      University: Chungang University, Republic of Korea
       time: 2018 - Feb 2024
       details: |
       
@@ -73,9 +73,9 @@ experiences:
       details: |
     #    Describe your role here lorem ipsum dolor sit amet, consectetuer
     #     - Bullet point
-projects:
+award & scholarship:
     #title: Projects
-    intro: >
+    intro: |>
     #  You can list your side projects or open source libraries in this
     #assignments:
       #- title: Velocity
@@ -83,26 +83,14 @@ projects:
       #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 publications:
-    title: Publications
+    #title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #papers:
+      #- title: The Art of Computer Programming
+      #  link: "#"
+      #  authors: Donald E. Knuth
+      #  conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
