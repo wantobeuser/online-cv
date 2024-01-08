@@ -67,12 +67,16 @@ education:
       details: |
       
 experiences:
+    #- role: Lead Developer
+    #  time: 2015 - Present
+    #  company: Startup Hubs, San Francisco
+      details: |
+    #    Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     - Bullet point
 projects:
     #title: Projects
-    #intro: >
+    intro: >
     #  You can list your side projects or open source libraries in this
-    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     #assignments:
       #- title: Velocity
       #  link: "#hook"
