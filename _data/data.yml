@@ -35,8 +35,6 @@ sidebar:
       - idiom: English
         level: Intermediate
 
-      - idiom:
-        level:
 
     interests:
       - item: Machine Learning
@@ -45,8 +43,6 @@ sidebar:
       - item: Camera
         link:
 
-      - item:
-        link:
 
 career-profile:
     title: Career Profile
@@ -75,7 +71,8 @@ experiences:
     #     - Bullet point
 award & scholarship:
     #title: Projects
-    intro: |>
+    intro: |
+    # >
     #  You can list your side projects or open source libraries in this
     #assignments:
       #- title: Velocity
