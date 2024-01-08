@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Myungjun Kook
-    tagline: Full Stack Developer
+    tagline: what
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: 1234
     phone: 012 345 6789
     citizenship:
     website: blog.webjeda.com #do not add http://
