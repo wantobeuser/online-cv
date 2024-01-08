@@ -69,15 +69,14 @@ experiences:
     #    Describe your role here lorem ipsum dolor sit amet, consectetuer
     #     - Bullet point
 publications:
-    #title: Publications
-    #intro: |
+    title: Publications
+    intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
     #papers:
       #- title: The Art of Computer Programming
       #  link: "#"
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
-      details: |
 
 skills:
     title: Skills &amp; Proficiency
