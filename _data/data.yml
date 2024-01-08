@@ -16,11 +16,11 @@ sidebar:
     phone: 010 3620 1797
     citizenship:
     website: 
-    LinkedIn: 
+    linkedin: 
     xing: 
-    GitHub: wantobeuser
+    github: wantobeuser
     telegram: 
-    GitLab:
+    gitlab:
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -51,7 +51,7 @@ career-profile:
       He is an M.S. candidate in electrical engineering in 2024 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea.
       His current research interests include Electronic Design Automation development, ML, etc. He is working with Prof. Seokhyeong Kang in the CAD & SoC Design Lab.
       
-Education:
+education:
     - degree: M.Sc in Electrical Engineering
       university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
       time: Feb 2024 - present
@@ -70,6 +70,7 @@ experiences:
       details: |
     #    Describe your role here lorem ipsum dolor sit amet, consectetuer
     #     - Bullet point
+    
 award & scholarship:
     #title: Projects
     #intro: >
