@@ -75,9 +75,9 @@ projects:
     title: Award & Scholarshipment
    
     assignments:
-      - title: Top Scholar of the Semester 
+    #  - title: Top Scholar of the Semester 
         #link: "#hook"
-        tagline: "2018 (Spring)"
+    #    tagline: "2018 (Spring)"
 
 publications:
     title: Publications
