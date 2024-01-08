@@ -68,6 +68,13 @@ experiences:
       details: |
     #    Describe your role here lorem ipsum dolor sit amet, consectetuer
     #     - Bullet point
+projects:
+    title: Award & Scholarshipment
+   
+    assignments:
+      - title: Top Scholar of the Semester 
+        link: "#hook"
+        tagline: "2021,2023 (Spring)"
 publications:
     title: Publications
     intro: |
