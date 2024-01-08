@@ -50,6 +50,7 @@ career-profile:
       Myungjun Kook received the B.S. degree in Electronics and Electrical Engineering in 2024 from Chungang University, Seoul, South Korea.
       He is an M.S. candidate in electrical engineering in 2024 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea.
       His current research interests include Electronic Design Automation development, ML, etc. He is working with Prof. Seokhyeong Kang in the CAD & SoC Design Lab.
+
 education:
     - degree: M.Sc in Electrical Engineering
       university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
@@ -61,6 +62,7 @@ education:
       University: Chungang University, Republic of Korea
       time: 2018 - Feb 2024
       details: |
+
 experiences:
     #- role: Lead Developer
     #  time: 2015 - Present
@@ -68,13 +70,15 @@ experiences:
       details: |
     #    Describe your role here lorem ipsum dolor sit amet, consectetuer
     #     - Bullet point
+
 projects:
     title: Award & Scholarshipment
    
     assignments:
       - title: Top Scholar of the Semester 
-        link: "#hook"
-        tagline: "2021,2023 (Spring)"
+        #link: "#hook"
+        tagline: "2018 (Spring)"
+
 publications:
     title: Publications
     intro: |
@@ -84,6 +88,7 @@ publications:
       #  link: "#"
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
+
 
 skills:
     title: Skills &amp; Proficiency
