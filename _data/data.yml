@@ -98,9 +98,9 @@ skills:
         level: 40%
 
       - name: C/C++
-        level: 50%
+        level: 60%
 
-      - name: Tensorflow
+      - name: Pytorch/Tensorflow
         level: 40%
 
       - name: LINUX
