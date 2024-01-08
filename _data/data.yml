@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Myungjun Kook
-    tagline: what
+    tagline: Master candidate of CSDL, POSTECH in Korea
     avatar: Kook.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,7 +18,7 @@ sidebar:
     #website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
     #xing: alandoe
-    github: sharu725
+    github: wantobeuser
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
@@ -29,23 +29,23 @@ sidebar:
     #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Intermediate
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Machine Learning
         link:
 
-      - item: Snowboarding
+      - item: Camera
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
